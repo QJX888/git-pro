@@ -10,7 +10,7 @@ public class test2 {
 	
 	
 	public int getAge() {
-		return age;
+		return age+1;
 	}
 	public void setAge(int age) {
 		this.age = age;
